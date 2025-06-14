@@ -528,9 +528,7 @@ HTML5.Games.with.CreateJS.pdf
 - 大学生职业发展与就业指导2
 
 - [互联网技术（计算机网络）⭐](大二下/计算机网络)
-    ```
-    1.老师:王勇，聂斌玲
-    ```
+- [互联网技术（计算机网络）⭐](https://github.com/windpupil/HDU-DigitalMediaTechnology/tree/main/%E4%BA%92%E8%81%94%E7%BD%91%E6%8A%80%E6%9C%AF)
 
 - [毛泽东思想和中国特色社会主义理论体系概论2](大二下/毛概)
 
